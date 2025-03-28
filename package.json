@@ -1,0 +1,12 @@
+{
+  "name": "scribejs",
+  "version": "1.0.0",
+  "description": "Print out HTML with custom headers and footers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Thomas Smith",
+  "license": "ISC"
+}
